@@ -1,0 +1,12 @@
+.container {
+  display: block;
+  width: min-content;
+}
+
+input:valid {
+  background-color: white;
+}
+
+input:invalid {
+  background-color: antiquewhite;
+}
